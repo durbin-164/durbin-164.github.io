@@ -65,4 +65,4 @@ jobs:
           personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
           publish_dir: ./public
           publish_branch: main
-          external_repository: durbin-164/durbin-164.github.io
+          external_repository: dayicklp/dayicklp.github.io

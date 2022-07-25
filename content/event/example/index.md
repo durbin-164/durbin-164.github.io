@@ -1,44 +1,44 @@
 ---
-title: Example Talk
+title: "AI for DB (20th VLDBSS)"
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+event: VLDB Summer School
+event_url: ''
+location: Chunshen Lake Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Chunshen Lake
+  city: Soochow
+  region: Jiangsu
+  postcode: '100000'
+  country: China
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: An event about database query optimization using learning methods.
+abstract: "Founded under the auspices of VLDB Foundation and under the database Committee of China Computer Society, the Chinese Database Academy aims to provide a learning and exchange opportunity for Chinese teachers, scholars and graduate students who are engaged in or are interested in database theory and technology research. Every year, the school invites internationally renowned scholars in database and related fields to give lectures in China irregularly, so as to promote China's comprehensive and timely understanding of the frontiers of international database science, and on this premise, based on application research and development of unique data management technologies and systems."
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-07-08T12:00:00Z'
+date_end: '2022-07-13T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-07-13T14:00:00Z'
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Follow
+#    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
