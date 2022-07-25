@@ -54,7 +54,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v2
         with:
-          go-version: '1.18.1' # The Go version to download (if necessary) and use.
+          go-version: '1.18.4' # The Go version to download (if necessary) and use.
 
       - name: Build
         run: hugo --minify
@@ -62,7 +62,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.GITHUB_TOKE }}
           publish_dir: ./public
           publish_branch: gh-pages
           external_repository: durbin-164/durbin-164.github.io
