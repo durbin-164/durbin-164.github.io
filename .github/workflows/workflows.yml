@@ -38,7 +38,7 @@ on:
 
 jobs:
   Build_and_Deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
         with:
@@ -48,7 +48,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.99.0'
+          hugo-version: '0.89.4'
           extended: true
           
       - name: Setup Go
@@ -65,4 +65,4 @@ jobs:
           personal_token: ${{ secrets.ACTION_ACCESS_TOKEN }}
           publish_dir: ./public
           publish_branch: main
-          external_repository: dayicklp/dayicklp.github.io
+          external_repository: durbin-164/durbin-164.github.io
