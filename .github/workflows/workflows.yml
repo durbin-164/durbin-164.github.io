@@ -62,7 +62,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.GITHUB_TOKE }}
+          github_token: ${{ secrets.GITHUB_TOKE }}
           publish_dir: ./public
           publish_branch: gh-pages
           external_repository: durbin-164/durbin-164.github.io
