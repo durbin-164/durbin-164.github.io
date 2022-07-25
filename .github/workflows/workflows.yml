@@ -66,3 +66,4 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           external_repository: durbin-164/durbin-164.github.io
+          enable_jekyll: false
