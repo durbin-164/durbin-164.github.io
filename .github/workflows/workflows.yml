@@ -65,5 +65,4 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: durbin-164/durbin-164.github.io
           publish_dir: ./public
-          publish_branch: gh-pages
-          enable_jekyll: true
+          publish_branch: main
