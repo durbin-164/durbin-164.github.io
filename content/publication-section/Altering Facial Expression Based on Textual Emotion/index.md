@@ -92,8 +92,29 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}} -->
 
 <!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+<!-- 
+<p style="text-align: center;"><b>Type: Conferance Paper</b></p>
+<p style="text-align: center;"><b>Organizer: INSTICC, VISAPP-2020</b></p>
+<p style="text-align: center;"><b>Publication: SciTePress</b></p>
+<p style="text-align: center;"><b>Conferance: 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications</b></p> -->
 
+**Type**: Conferance Paper
+{style="text-align: center"}
+**Organizer**: [INSTICC, VISAPP-2022](https://visapp.scitevents.org/?y=2022)
+{style="text-align: center"}
+**Publication**: [SciTePress](https://www.scitepress.org/PublicationsDetail.aspx?ID=8e9OfYFLjYY=&t=1)
+{style="text-align: center"}
+**Conferance**: 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications
+{style="text-align: center"}
+
+{{< cite page="cite.bib" view="4" >}}
+
+
+
+<!-- Red colored text 
+{style="color: red"} -->
+
+
+## **Abstract** 
 
 Faces and their expressions are one of the potent subjects for digital images. Detecting emotions from images is an ancient task in the field of computer vision; however, performing its reverse—synthesizing facial expressions from images—is quite new. Such operations of regenerating images with different facial expressions, or altering an existing expression in an image require the Generative Adversarial Network (GAN). In this paper, we aim to change the facial expression in an image using GAN, where the input image with an initial expression (i.e., happy) is altered to a different expression (i.e., disgusted) for the same person. We used StarGAN techniques on a modified version of the MUG dataset to accomplish this objective. Moreover, we extended our work further by remodeling facial expressions in an image indicated by the emotion from a given text. As a result, we applied a Long Short-Term Memory (LSTM) method to extract emotion from the text and forwarded it to our expression-altering module. As a demonstration of our working pipeline, we also create an application prototype of a blog that regenerates the profile picture with different expressions based on the user’s textual emotion.
-
-
