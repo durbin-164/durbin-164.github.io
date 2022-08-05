@@ -1,4 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Academic</title><link>https://example.com/publication-section/</link><atom:link href="https://example.com/publication-section/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://example.com/publication-section/</link></image><item><title>An example conference paper</title><link>https://example.com/publication-section/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://example.com/publication-section/example/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | MASUD RANA</title><link>https://example.com/publication-section/</link><atom:link href="https://example.com/publication-section/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://example.com/publication-section/</link></image><item><title>Altering Facial Expression based on Textual Emotion</title><link>https://example.com/publication-section/altering-facial-expression-based-on-textual-emotion/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://example.com/publication-section/altering-facial-expression-based-on-textual-emotion/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+&lt;!--
+&lt;p style="text-align: center;">&lt;b>Type: Conferance Paper&lt;/b>&lt;/p>
+&lt;p style="text-align: center;">&lt;b>Organizer: INSTICC, VISAPP-2020&lt;/b>&lt;/p>
+&lt;p style="text-align: center;">&lt;b>Publication: SciTePress&lt;/b>&lt;/p>
+&lt;p style="text-align: center;">&lt;b>Conferance: 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications&lt;/b>&lt;/p> -->
+&lt;p style="text-align: center">&lt;strong>Type&lt;/strong>: Conferance Paper&lt;/p>
+&lt;p style="text-align: center">&lt;strong>Organizer&lt;/strong>: &lt;a href="https://visapp.scitevents.org/?y=2022" target="_blank" rel="noopener">INSTICC, VISAPP-2022&lt;/a>&lt;/p>
+&lt;p style="text-align: center">&lt;strong>Publication&lt;/strong>: &lt;a href="https://www.scitepress.org/PublicationsDetail.aspx?ID=8e9OfYFLjYY=&amp;amp;t=1" target="_blank" rel="noopener">SciTePress&lt;/a>&lt;/p>
+&lt;p style="text-align: center">&lt;strong>Conferance&lt;/strong>: 17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications&lt;/p>
+&lt;!-- Red colored text
+{style="color: red"} -->
+&lt;h2 id="abstract">&lt;strong>Abstract&lt;/strong>&lt;/h2>
+&lt;p>Faces and their expressions are one of the potent subjects for digital images. Detecting emotions from images is an ancient task in the field of computer vision; however, performing its reverse—synthesizing facial expressions from images—is quite new. Such operations of regenerating images with different facial expressions, or altering an existing expression in an image require the Generative Adversarial Network (GAN). In this paper, we aim to change the facial expression in an image using GAN, where the input image with an initial expression (i.e., happy) is altered to a different expression (i.e., disgusted) for the same person. We used StarGAN techniques on a modified version of the MUG dataset to accomplish this objective. Moreover, we extended our work further by remodeling facial expressions in an image indicated by the emotion from a given text. As a result, we applied a Long Short-Term Memory (LSTM) method to extract emotion from the text and forwarded it to our expression-altering module. As a demonstration of our working pipeline, we also create an application prototype of a blog that regenerates the profile picture with different expressions based on the user’s textual emotion.&lt;/p></description></item><item><title>An example conference paper</title><link>https://example.com/publication-section/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://example.com/publication-section/example/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
