@@ -1,5 +1,5 @@
 ---
-title: Oxynet a Deep Learning Framework Copy
+title: Oxynet a Deep Learning Framework
 summary: This is a learning purpose toy Deep Learning Framework from scratch to understand how automatic differentiation work and how a deep learning framework like Pytorch, Tensorflow, etc, work
 
 headless: false
@@ -50,13 +50,13 @@ url_video: ''
   # flip_alt_rows: true
 
 ---
-
+<!-- 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=alert_status)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet)
 [![Coverage](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=coverage)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet)
 [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=bugs)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=code_smells)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=ncloc)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=durbin-164_oxynet&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=durbin-164_oxynet) -->
 
 Don't it feel amazing if you are a deep learning library creator like Tensorflow, Pytorch, etc?  
 
