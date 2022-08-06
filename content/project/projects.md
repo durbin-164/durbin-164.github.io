@@ -20,8 +20,8 @@ content:
   filters:
     folders:
       - project-section
-    kinds:
-      - section
+    # kinds:
+    #   - section
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -36,6 +36,8 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Library
+      tag: Library
     - name: Other
       tag: Demo
 
