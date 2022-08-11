@@ -30,7 +30,7 @@ education:
     - course: BSc in Computer Science and Engineering
       institution: Ahsanullah University of Science and Technology
       year: 2019
-      CGPA: 3.79/4.00
+      descriptions: 3.79/4.00
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

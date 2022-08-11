@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Experience & Awards
-    url: 'experience/'
+    url: 'experience_edu_awards/'
     weight: 20
   - name: Skills & Development
     url: 'professional-development'

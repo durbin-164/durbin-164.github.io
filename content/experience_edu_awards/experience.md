@@ -26,7 +26,7 @@ experience:
     company: Infolytx Inc
     company_url: 'https://www.infolytx.com/'
     company_logo: Infolytx-logo
-    location: Dhaka
+    location: Dhaka, Bangladesh
     date_start: '2019-08-18'
     date_end: ''
     description: |
@@ -66,5 +66,5 @@ experience:
   #       * Natural Language Processing
 
 design:
-  columns: '2'
+  columns: '1'
 ---
