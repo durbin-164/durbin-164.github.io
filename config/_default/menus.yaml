@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experience & Awards
+  - name: Experience Edu & Awards
     url: 'experience_edu_awards/'
     weight: 20
   - name: Skills & Development
@@ -19,9 +19,9 @@ main:
   - name: Publications
     url: publication/
     weight: 30
-  - name: Posts
-    url: 'post/'
-    weight: 60
+  # - name: Posts
+  #   url: 'post/'
+  #   weight: 60
   - name: Contact
     url: 'contact/'
     weight: 70
