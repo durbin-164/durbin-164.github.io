@@ -20,7 +20,7 @@ bio: My research interests include mathematics of machine learning and it’s ap
 interests:
   - Artificial Intelligence
   - Machine Learning
-  - Deep Learning
+  - Data Engineering
   - Mathematical Theory
   - Optimization Algorithm
 
@@ -69,7 +69,7 @@ email: 'masud.cseian@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Me, Md. Masud Rana, have completed my undergraduate in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/), Dhaka, Bangladesh. Now I’m working as a Software Engineer in Machine Learning at [Infolytx Inc.](https://www.infolytx.com/) My research interests include mathematics of machine learning and it’s application in real world.
+Me, Md. Masud Rana, have completed my undergraduate in Computer Science and Engineering from [Ahsanullah University of Science and Technology (AUST)](https://aust.edu/), Dhaka, Bangladesh. Now I’m working as a Software Engineer in Machine Learning at [Infolytx Inc.](https://www.infolytx.com/) My interests include mathematics of machine learning, it’s application and Data Engineering in real world.
 
 
 <!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

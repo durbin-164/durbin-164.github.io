@@ -26,6 +26,15 @@ feature:
     name: Python
 
   - description: |
+      - AWS Textract, Rekognetion, Comprehend Medical
+      - AWS Lambda, Dynamodb, Neptune DB
+      - AWS Segmaker and Google Colab
+      - Basic knowledge about Kubernets
+    icon: "cloud"
+    icon_pack: "custom"
+    name: Cloud Technology
+
+  - description: |
       - Mathematics of Machine Learning
       - Traditional Machine Leaning
       - Bayesian Model, Tree, Gradient Boosting, XGBoost
@@ -33,12 +42,12 @@ feature:
     icon_pack: "custom"
     name: Machine Learning
   
-  - description: |
-      - Experiance with CNN, LSTM, Transformer
-      - Profession project with Tensorflow and Pytorch
-    icon: "ai"
-    icon_pack: "custom"
-    name: Deep Learning
+  # - description: |
+  #     - Experiance with CNN, LSTM, Transformer
+  #     - Profession project with Tensorflow and Pytorch
+  #   icon: "ai"
+  #   icon_pack: "custom"
+  #   name: Deep Learning
 
   - description: |
       - Professional project for Image Classificaion and Object Detection
@@ -58,21 +67,13 @@ feature:
     icon_pack: "custom"
     name: Natural Language Processing
 
-  - description: |
-      - Basic Understanding
-      - Kaggle Compition and Rank top 7%
-    icon: "ai"
-    icon_pack: "custom"
-    name: Reinforcement Learning
+  # - description: |
+  #     - Basic Understanding
+  #     - Kaggle Compition and Rank top 7%
+  #   icon: "ai"
+  #   icon_pack: "custom"
+  #   name: Reinforcement Learning
 
-  - description: |
-      - AWS Textract, Rekognetion, Comprehend Medical
-      - AWS Lambda, Dynamodb, Neptune DB
-      - AWS Segmaker and Google Colab
-      - Basic knowledge about Kubernets
-    icon: "ai"
-    icon_pack: "custom"
-    name: Cloud Technology
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
